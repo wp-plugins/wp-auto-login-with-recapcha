@@ -1,9 +1,9 @@
 <?php
 /**
  *
- * Plugin Name: WP AUTO LOGIN WITH RECAPCHA
+ * Plugin Name: WP Auto Login With Recaptcha
  * Plugin URI: http://www.wordpress.org/plugins/wp-auto-login-with-recaptcha
- * Description: Easily redirect after user register to desired location.Also, integrate recaptcha with password field & verfication email
+ * Description: Easily login & redirect after user register to desired location.Also, integrate recaptcha with password field & verfication email
  * Version: 1.0.0
  * Author: Neil Gurung
  * Author URI: http://www.neil.com.np/

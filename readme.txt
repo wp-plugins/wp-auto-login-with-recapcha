@@ -47,6 +47,16 @@ Just set it according to your desire.Then,you will see how easy it was.
 
 All, you have to do is just call shortcode in your theme file using do_shortcode('[recaptcha]'),do_shortcode('[password]') and ready to go.
 
+== Screenshots ==
+
+Custom Register Form
+
+Custom Login Form
+
+WP Auto Login Setting
+
+WP Register Form Setting
+
 == Other Notes ==
 
 

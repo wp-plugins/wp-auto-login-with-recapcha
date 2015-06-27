@@ -1,0 +1,68 @@
+/***** Admin style ****/
+h2.auto-login {
+    margin-left: 10px;
+    text-transform: uppercase;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+	
+.form-table td p {
+    margin-top: -10px;
+    margin-bottom: 0px;
+    margin-left: 0px !important;
+    padding: 0px !important;
+}
+
+.plugins p {
+    margin: 10px 4px;
+    padding: 10px;
+}
+/**** FrontEnd Style ****/
+
+#login {
+  width:50%;
+}
+
+form#loginform,form#registerform{
+  background:#A66B38;
+  border-radius:0px 10px;
+  -webkit-box-shadow: 9px 8px 12px -8px rgba(0,0,0,0.75);
+  -moz-box-shadow: 9px 8px 12px -8px rgba(0,0,0,0.75);
+  box-shadow: 9px 8px 12px -8px rgba(0,0,0,0.75);
+}
+.login label {
+    color: #fff;
+    font-size: 14px;
+}
+p.forgetmenot {
+  width:100%;
+}
+
+p.submit {
+  float:left;
+  margin:0 auto;
+  padding:10px;
+  width:100px;
+  
+}
+
+#login form p.submit {
+    margin: 0px;
+    padding: 0px;
+    width: 100%;
+    
+}
+
+.login .button-primary {
+    margin: 0;
+    width: 40%;
+    background-color: #8286d9;
+    height: 30% !important;
+    margin-top: 10px;
+    border-bottom: 0px;
+}
+
+.login form .input, .login form input[type="checkbox"], .login input[type="text"] {
+    background: #F2F8BF;
+}

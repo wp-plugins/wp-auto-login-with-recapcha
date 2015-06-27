@@ -49,13 +49,13 @@ All, you have to do is just call shortcode in your theme file using do_shortcode
 
 == Screenshots ==
 
-Custom Register Form
+1. Custom Register Form
 
-Custom Login Form
+2. Custom Login Form
 
-WP Auto Login Setting
+3. WP Auto Login Setting
 
-WP Register Form Setting
+4. WP Register Form Setting
 
 == Other Notes ==
 

@@ -1,4 +1,4 @@
-=== WP AUTO LOGIN WITH EASY INTEGRATIION RECAPTCHA ===
+=== WP Auto Login With Recaptcha ===
 Contributors: neilGurung
 Author URI: http://www.neil.com.np/
 Plugin URL: http://www.wordpress.org/plugins/wp-auto-login-with-recaptcha
@@ -13,12 +13,12 @@ Version: 1.0.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Easily redirect after user register to desired location.Also, integrate recaptcha with password field & verfication email
+Easily login & redirect after user register to desired location.Also, integrate recaptcha with password field &  email verification
 
 == Description ==
 
 It is very easy to use and set plugin for auto login & redirect with recaptcha and password
-field integration in wp-login form.
+field integration in wp-login form or any form with email verification feature.
 
 Also, using do_shortcode('[recaptcha]'),do_shortcode('[password]') for easily add these fields in any form
 
